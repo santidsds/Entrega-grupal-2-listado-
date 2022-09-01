@@ -1,0 +1,61 @@
+  .container {
+    max-width: 960px;
+    
+  }
+  main {
+    max-height: 100vh;
+    
+    
+  }
+  
+
+  body {
+    margin-top: 20vh;
+    overflow: hidden;
+  }
+
+  .cont {
+    overflow: auto;
+    height: 200px;
+  }
+
+  .nav {
+    
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+    
+    
+  }
+  .nav-cont {
+    
+    
+    display: flex;
+    justify-content: space-between;
+    
+      
+  }
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+  }
+
+  p {
+   margin-right: 3em;   
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+    
+  }
+
+  a:hover {
+    margin-top: 1em;
+    color: black;
+  }
+
